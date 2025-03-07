@@ -12,10 +12,6 @@
   - If you want to write Golang, you will need `go`
   - etc.
 
-You likely want to remove `lazy-lock.json` from your fork's `.gitignore` file
-too - it's ignored in the kickstart repo to make maintenance easier, but it's
-[recommended to track it in version control](https://lazy.folke.io/usage/lockfile).
-
 * What if I want to "uninstall" this configuration:
   * See [lazy.nvim uninstall](https://lazy.folke.io/usage#-uninstalling) information
 
