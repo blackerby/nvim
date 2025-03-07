@@ -12,7 +12,7 @@
   - If you want to write Golang, you will need `go`
   - etc.
 
+## Uninstall
 * What if I want to "uninstall" this configuration:
   * See [lazy.nvim uninstall](https://lazy.folke.io/usage#-uninstalling) information
-
 
