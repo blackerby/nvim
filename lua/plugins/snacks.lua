@@ -40,7 +40,7 @@ return {
     {
       '<leader>gg',
       function()
-        Snacks.lazygit().open {}
+        Snacks.lazygit()
       end,
       desc = 'Open Lazygit',
     },
